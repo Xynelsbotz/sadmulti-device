@@ -43,6 +43,8 @@ https://github.com/Fokusdotid
 https://github.com/Johannes2803
 *❉ BrunoSobrino:*
 https://github.com/BrunoSobrino
+*❉ Xynels:*
+https://github.com/Xynelsbotz
 *❉ Krisna:*
 https://github.com/NevtBotz
 *❉ LitRHap:*
@@ -56,6 +58,7 @@ https://github.com/Aiinne
 https://github.com/FahriAdison
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Kannachan:*
+*❉ Xynels:*
 *❉ Johannes:*
 *❉ Krisna:*
 *❉ Rlxfly:*
