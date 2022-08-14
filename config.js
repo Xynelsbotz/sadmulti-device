@@ -8,12 +8,12 @@ global.owner = [
   ['+84 82 430 4616'],
   ['+84 34 979 0091'],
   ['+62 818-0545-0249'],
-  ['+62 815-1545-3325'],
+  ['+62 858-5433-7533'],
   ['17608914335', 'Papah-Chan', true],
   ['+84 82 430 4616', 'Bot', true],
   ['+84 34 979 0091', 'Johannes', true],
   ['+62 818-0545-0249', 'Krisna', true],
-  ['+62 815-1545-3325', 'Xynels', true],
+  ['+62 858-5433-7533', 'Xynels', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
