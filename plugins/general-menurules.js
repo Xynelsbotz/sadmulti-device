@@ -7,7 +7,7 @@ conn.sendHydrated(m.chat, '*『 ʀᴜʟᴇs ᴀɴᴅ ʀᴇɢᴜʟᴀᴛɪᴏɴs 
 [`\ᴅᴏɴᴀsɪ💵`, '.donasi']
 ], m, {asLocation: false})
 }
-handler.help = ['mr']
+handler.help = ['menurules']
 handler.tags = ['general']
 handler.command = /^(menurules)$/i
 
