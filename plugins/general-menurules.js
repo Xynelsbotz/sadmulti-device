@@ -9,6 +9,6 @@ conn.sendHydrated(m.chat, '*『 ʀᴜʟᴇs ᴀɴᴅ ʀᴇɢᴜʟᴀᴛɪᴏɴs 
 }
 handler.help = ['mr']
 handler.tags = ['general']
-handler.command = /^(mr)$/i
+handler.command = /^(menurules)$/i
 
 export default handler
